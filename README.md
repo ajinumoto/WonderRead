@@ -167,7 +167,7 @@ WonderRead is engineered using clean, modern Apple platform standards:
 ### Clone & Open
 
 ```bash
-git clone https://github.com/ajinumoto/Lentera.git WonderRead
+git clone https://github.com/ajinumoto/WonderRead.git WonderRead
 cd WonderRead
 open WonderRead.xcodeproj
 ```
