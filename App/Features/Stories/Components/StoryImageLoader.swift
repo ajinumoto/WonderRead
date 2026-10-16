@@ -23,9 +23,13 @@ enum StoryImageLoader {
     guard !trimmed.isEmpty else { return nil }
 
     if trimmed.hasPrefix("http://") || trimmed.hasPrefix("https://") {
-      return URL(string: trimmed)
+      guard let url = URL(string: trimmed),
+            let scheme = url.scheme?.lowercased(),
+            ["http", "https"].contains(scheme) else { return nil }
+      return url
     }
-    return StoryArchive.illustrationURL(for: trimmed, storiesDirectory: storiesDirectory, fileManager: fileManager)
+    guard let safeName = StoryArchive.sanitizedFilename(trimmed) else { return nil }
+    return StoryArchive.illustrationURL(for: safeName, storiesDirectory: storiesDirectory, fileManager: fileManager)
   }
 
   static func loadImageData(

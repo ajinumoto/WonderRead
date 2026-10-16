@@ -7,6 +7,8 @@ struct StoryImageLoaderTests {
     #expect(StoryImageLoader.resolveURL(for: " https://example.test/a.png ")?.absoluteString == "https://example.test/a.png")
     #expect(StoryImageLoader.resolveURL(for: " ") == nil)
     #expect(StoryImageLoader.resolveURL(for: "missing.png", storiesDirectory: temporaryDirectory()) == nil)
+    #expect(StoryImageLoader.resolveURL(for: "../../../../etc/passwd", storiesDirectory: temporaryDirectory()) == nil)
+    #expect(StoryImageLoader.resolveURL(for: "ftp://example.test/a.png") == nil)
   }
 
   @Test func decodesValidImageAndRejectsInvalidData() throws {
