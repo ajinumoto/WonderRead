@@ -128,6 +128,18 @@ struct SupabaseConfigurationTests {
   }
 }
 
+struct StoryRepositoryErrorTests {
+  @Test func providesLocalizedDescriptionsAndRecoverySuggestions() {
+    let unconfigured = StoryRepositoryError.unconfigured
+    #expect(unconfigured.errorDescription?.contains("not configured") == true)
+    #expect(unconfigured.recoverySuggestion?.contains("Settings") == true)
+
+    let invalidResponse = StoryRepositoryError.invalidResponse(500)
+    #expect(invalidResponse.errorDescription?.contains("500") == true)
+    #expect(invalidResponse.recoverySuggestion != nil)
+  }
+}
+
 struct ConfigurationCase: Sendable {
   var url: String
   var key: String
