@@ -1,12 +1,16 @@
 import Foundation
 
-enum SupabaseStoryDataMapper {
-  private static let iso8601Formatter: ISO8601DateFormatter = {
-    ISO8601DateFormatter()
-  }()
+// MARK: - Idiomatic DTO Extensions
 
-  static func chapter(from dto: SupabaseChapterDTO) -> StoryChapter {
-    StoryChapter(
+extension StoryChapter {
+  init(dto: SupabaseChapterDTO) {
+    let date: Date
+    if let createdAt = dto.created_at, let parsed = ISO8601DateFormatter().date(from: createdAt) {
+      date = parsed
+    } else {
+      date = .now
+    }
+    self.init(
       id: dto.id,
       number: dto.number,
       seriesTitle: dto.series_title,
@@ -15,18 +19,16 @@ enum SupabaseStoryDataMapper {
       paragraphs: dto.paragraphs,
       illustrationPrompt: dto.illustration_prompt ?? "",
       illustrationFilename: dto.illustration_url,
-      generatedAt: generatedDate(from: dto.created_at),
+      generatedAt: date,
       source: .curated
     )
   }
+}
 
-  static func collection(from dto: SupabaseCollectionDTO) -> StoryCollection {
-    let chapters = (dto.story_chapters ?? []).map(chapter(from:))
-    return collection(from: dto, chapters: chapters)
-  }
-
-  static func collection(from dto: SupabaseCollectionDTO, chapters: [StoryChapter]) -> StoryCollection {
-    StoryCollection(
+extension StoryCollection {
+  init(dto: SupabaseCollectionDTO, chapters: [StoryChapter]? = nil) {
+    let resolvedChapters = chapters ?? (dto.story_chapters ?? []).map(StoryChapter.init(dto:))
+    self.init(
       id: dto.id,
       slug: dto.slug,
       title: dto.title,
@@ -36,16 +38,32 @@ enum SupabaseStoryDataMapper {
       badge: dto.badge,
       language: dto.language ?? "en",
       version: dto.version ?? 1,
-      chapters: markFinalChapters(in: chapters)
+      chapters: SupabaseStoryDataMapper.markFinalChapters(in: resolvedChapters)
     )
+  }
+}
+
+// MARK: - Supabase Story Data Adapter
+
+enum SupabaseStoryDataMapper {
+  static func chapter(from dto: SupabaseChapterDTO) -> StoryChapter {
+    StoryChapter(dto: dto)
+  }
+
+  static func collection(from dto: SupabaseCollectionDTO) -> StoryCollection {
+    StoryCollection(dto: dto)
+  }
+
+  static func collection(from dto: SupabaseCollectionDTO, chapters: [StoryChapter]) -> StoryCollection {
+    StoryCollection(dto: dto, chapters: chapters)
   }
 
   static func chapters(from dtos: [SupabaseChapterDTO]) -> [StoryChapter] {
-    markFinalChapters(in: dtos.map(chapter(from:)))
+    markFinalChapters(in: dtos.map(StoryChapter.init(dto:)))
   }
 
   static func collections(from dtos: [SupabaseCollectionDTO]) -> [StoryCollection] {
-    dtos.map(collection(from:))
+    dtos.map { StoryCollection(dto: $0) }
   }
 
   static func markFinalChapters(in collections: [StoryCollection]) -> [StoryCollection] {
@@ -65,10 +83,5 @@ enum SupabaseStoryDataMapper {
       markedChapter.isFinalInCollection = index == finalIndex
       return markedChapter
     }
-  }
-
-  private static func generatedDate(from value: String?) -> Date {
-    guard let value, let date = iso8601Formatter.date(from: value) else { return .now }
-    return date
   }
 }

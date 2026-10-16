@@ -15,7 +15,7 @@ struct StoryGeminiModel: Decodable, Identifiable, Hashable, Sendable {
       StoryGeminiModel(
         name: "models/gemini-3.8-flash",
         baseModelId: nil,
-        displayName: String(localized: "Gemini 3.8 Flash (Default)", comment: "Localized app copy."),
+        displayName: String(localized: "Gemini 3.8 Flash (Default)"),
         outputTokenLimit: 65536,
         supportedGenerationMethods: ["generateContent"]
       ),

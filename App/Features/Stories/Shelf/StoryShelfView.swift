@@ -75,10 +75,10 @@ struct StoryShelfView: View {
   @ToolbarContentBuilder
   private var shelfToolbar: some ToolbarContent {
       ToolbarItem(placement: .automatic) {
-        Button(String(localized: "History", comment: "Localized app copy."), systemImage: "clock.arrow.circlepath", action: onOpenHistory)
+        Button(String(localized: "History"), systemImage: "clock.arrow.circlepath", action: onOpenHistory)
       }
       ToolbarItem(placement: .automatic) {
-        Button(String(localized: "Settings", comment: "Localized app copy."), systemImage: "gearshape") {
+        Button(String(localized: "Settings"), systemImage: "gearshape") {
           #if os(macOS)
           openSettings()
           #else
