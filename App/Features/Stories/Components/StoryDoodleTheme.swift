@@ -1,5 +1,34 @@
 import SwiftUI
 
+// MARK: - Doodle Style
+
+enum StoryDoodleStyle {
+  case fullPage
+  case thumbnail
+}
+
+// MARK: - Doodle Metrics
+
+struct StoryDoodleMetrics {
+  var minDimension: CGFloat
+  var heroSize: CGFloat
+  var satelliteSize: CGFloat
+
+  static func fullPage(for size: CGSize) -> StoryDoodleMetrics {
+    let minimum = min(size.width, size.height)
+    let hero = max(56, minimum * 0.22)
+    return StoryDoodleMetrics(minDimension: minimum, heroSize: hero, satelliteSize: hero * 0.38)
+  }
+
+  static func thumbnail(for size: CGSize) -> StoryDoodleMetrics {
+    let minimum = min(size.width, size.height)
+    let hero = max(28, minimum * 0.36)
+    return StoryDoodleMetrics(minDimension: minimum, heroSize: hero, satelliteSize: hero * 0.38)
+  }
+}
+
+// MARK: - Doodle Theme
+
 enum StoryDoodleTheme: CaseIterable {
   case baby
   case fantasy
@@ -38,13 +67,13 @@ enum StoryDoodleTheme: CaseIterable {
   var title: String {
     switch self {
     case .baby:
-      String(localized: "Playful Care & Joy", comment: "Localized app copy.")
+      String(localized: "Playful Care & Joy")
     case .fantasy:
-      String(localized: "Wonder & Magic", comment: "Localized app copy.")
+      String(localized: "Wonder & Magic")
     case .storybook:
-      String(localized: "Storybook Journey", comment: "Localized app copy.")
+      String(localized: "Storybook Journey")
     case .bedtime:
-      String(localized: "Starry Night & Dreams", comment: "Localized app copy.")
+      String(localized: "Starry Night & Dreams")
     }
   }
 

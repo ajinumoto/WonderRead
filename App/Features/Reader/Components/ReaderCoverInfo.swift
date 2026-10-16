@@ -1,7 +1,5 @@
 import SwiftUI
 
-// MARK: - Reusable Reader Background
-
 struct ReaderCoverInfo: Equatable, Sendable {
   var seriesBadge: String?
   var collectionTitle: String

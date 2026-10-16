@@ -1,7 +1,5 @@
 import SwiftUI
 
-// MARK: - Reusable Reader Background
-
 struct ReaderEmptyStateView: View {
   var body: some View {
     ContentUnavailableView(

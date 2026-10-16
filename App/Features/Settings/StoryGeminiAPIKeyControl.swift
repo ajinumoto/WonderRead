@@ -24,7 +24,7 @@ struct StoryGeminiAPIKeyControl: View {
     }
   }
 
-  // MARK: - Setelah API Key Di-set (Simple & Clean)
+  // MARK: - Configured View
   private var savedView: some View {
     HStack(spacing: 12) {
       Label(
@@ -56,7 +56,7 @@ struct StoryGeminiAPIKeyControl: View {
     }
   }
 
-  // MARK: - Sebelum API Key Di-set / Sedang Ganti (Simple & Clean)
+  // MARK: - Input Editor View
   private var editorView: some View {
     VStack(alignment: .leading, spacing: 6) {
       HStack(spacing: 8) {

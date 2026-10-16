@@ -1,7 +1,5 @@
 import SwiftUI
 
-// MARK: - Reusable Reader Background
-
 struct StoryPadLoadingPageView: View {
   @Environment(\.colorScheme) private var colorScheme
   var isGenerating: Bool

@@ -1,7 +1,5 @@
 import SwiftUI
 
-// MARK: - Reusable Reader Background
-
 struct StoryPadSinglePageView: View {
   @Environment(\.colorScheme) private var colorScheme
   var chapter: StoryChapter
