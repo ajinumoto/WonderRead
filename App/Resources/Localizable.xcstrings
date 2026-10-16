@@ -1,0 +1,2544 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@  ·  CHAPTER %lld" : {
+      "comment" : "Collection title followed by the chapter number on curated story pages.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@  ·  BAB %2$lld"
+          }
+        }
+      }
+    },
+    "%@ = ?" : {
+
+    },
+    "%lld Stories" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld Cerita"
+          }
+        }
+      }
+    },
+    "%lld years" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld tahun"
+          }
+        }
+      }
+    },
+    "A collection of legendary folklore and fables from the online library." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kumpulan dongeng nusantara dan fabel legendaris dari pustaka online."
+          }
+        }
+      }
+    },
+    "A continuing story shaped by the things your child loves." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kisah bersambung yang tumbuh dari hal-hal yang disukai anak."
+          }
+        }
+      }
+    },
+    "A new chapter is waiting tonight." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malam ini, kisahnya berlanjut."
+          }
+        }
+      }
+    },
+    "A story for %@. %@" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sebuah kisah untuk %1$@. %2$@"
+          }
+        }
+      }
+    },
+    "A story is already being created. Please wait a moment." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerita sedang dibuat. Tunggu sebentar."
+          }
+        }
+      }
+    },
+    "A system error occurred." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terjadi kesalahan sistem."
+          }
+        }
+      }
+    },
+    "ABOUT THE READER" : {
+      "comment" : "Localized app copy.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ABOUT THE READER"
+          }
+        }
+      }
+    },
+    "Add a few details if you like. Every field is optional." : {
+      "comment" : "Generated story onboarding description.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tambahkan beberapa detail jika kamu mau. Semua kolom bersifat opsional."
+          }
+        }
+      }
+    },
+    "Add a few details to make each story feel personal." : {
+      "comment" : "Localized app copy.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cukup isi yang membuat ceritanya terasa dekat."
+          }
+        }
+      }
+    },
+    "Adventure" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Petualangan"
+          }
+        }
+      }
+    },
+    "adventure and exploration" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "petualangan dan eksplorasi"
+          }
+        }
+      }
+    },
+    "Age" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usia"
+          }
+        }
+      }
+    },
+    "AI couldn't create the illustration. %@" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI belum dapat membuat ilustrasi. %1$@"
+          }
+        }
+      }
+    },
+    "AI returned a response that couldn't be read. Please try again." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI memberikan hasil yang belum bisa dibaca. Coba buat cerita lagi."
+          }
+        }
+      }
+    },
+    "All Languages" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semua Bahasa"
+          }
+        }
+      }
+    },
+    "All saved stories and illustrations will be deleted from your book. This action cannot be undone." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semua cerita dan gambar yang tersimpan akan dihapus dari buku. Tindakan ini tidak dapat dibatalkan."
+          }
+        }
+      }
+    },
+    "All saved stories and illustrations will be deleted. The bookshelf will start fresh like new." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semua cerita dan gambar yang tersimpan akan dihapus. Rak buku akan kembali kosong seperti baru."
+          }
+        }
+      }
+    },
+    "Animals, nature, space…" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hewan, alam, luar angkasa…"
+          }
+        }
+      }
+    },
+    "API key" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "API key"
+          }
+        }
+      }
+    },
+    "API Key Active" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "API Key Aktif"
+          }
+        }
+      }
+    },
+    "Apple Intelligence" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Intelligence"
+          }
+        }
+      }
+    },
+    "Apple Intelligence is ready. On-device stories will be written in %@." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Intelligence siap. Cerita lokal akan dibuat dalam bahasa %1$@."
+          }
+        }
+      }
+    },
+    "Apple Intelligence is turned off. Enable it in Settings, then try again." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Intelligence belum aktif. Aktifkan di Pengaturan perangkat lalu coba lagi."
+          }
+        }
+      }
+    },
+    "Apple Intelligence isn't available right now. Your profile and preferences are saved; choose Gemini to create stories." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Intelligence belum tersedia saat ini. Profil dan preferensi tetap tersimpan; pilih Gemini untuk membuat cerita."
+          }
+        }
+      }
+    },
+    "Apple's built-in AI safety service failed (%@, code %lld). The app follows this system check and can't bypass it. Make sure Apple Intelligence is enabled and its language model is ready, then try again." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Layanan keamanan AI bawaan Apple gagal (%1$@, kode %2$lld). Aplikasi mengikuti pemeriksaan sistem ini dan tidak dapat melewatinya. Pastikan Apple Intelligence aktif dan model bahasanya siap, lalu coba lagi."
+          }
+        }
+      }
+    },
+    "Apple's language model isn't ready or is still downloading. Connect to Wi-Fi and power, then wait for the download to finish." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Model bahasa Apple belum siap atau masih diunduh. Sambungkan perangkat ke Wi-Fi dan daya, lalu tunggu unduhan selesai."
+          }
+        }
+      }
+    },
+    "Apple's model doesn't support %@ for on-device stories. Choose Gemini to create stories." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Model Apple belum mendukung %1$@ untuk AI lokal. Pilih Gemini untuk membuat cerita."
+          }
+        }
+      }
+    },
+    "Apple's model doesn't support this language for on-device stories. Choose Gemini to create stories." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bahasa ini tidak didukung oleh model Apple untuk AI lokal. Pilih Gemini untuk membuat cerita."
+          }
+        }
+      }
+    },
+    "Apple's on-device AI creates story text only. It doesn't generate illustrations with this method. Model availability and safety checks follow Apple's built-in support; the app can't enable or bypass device, region, language, or system-service requirements." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI Apple di perangkat membuat teks cerita saja. Ilustrasi tidak dibuat dengan metode ini. Ketersediaan model dan pemeriksaan keamanan mengikuti dukungan bawaan Apple; aplikasi tidak dapat mengaktifkan atau melewati batasan perangkat, wilayah, bahasa, maupun layanan sistem."
+          }
+        }
+      }
+    },
+    "Apple's safety check couldn't complete this story. Change the story idea and try again." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pemeriksaan keamanan Apple tidak dapat menyelesaikan cerita ini. Ubah ide cerita, lalu coba lagi."
+          }
+        }
+      }
+    },
+    "Bahasa Indonesia 🇮🇩" : {
+
+    },
+    "Book cover: %@. Swipe to open." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sampul buku: %1$@. Geser untuk membuka."
+          }
+        }
+      }
+    },
+    "Book cover: %@. Tap to open." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sampul buku: %1$@. Ketuk untuk membuka."
+          }
+        }
+      }
+    },
+    "Browse folklore and fables by collection. Choose a story and read it one chapter at a time." : {
+      "comment" : "App introduction description.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jelajahi cerita rakyat dan fabel dalam koleksi. Pilih cerita, lalu baca bab demi bab."
+          }
+        }
+      }
+    },
+    "Cache Management" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manajemen Cache"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batal"
+          }
+        }
+      }
+    },
+    "Change" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ganti"
+          }
+        }
+      }
+    },
+    "Chapter %lld" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bab %1$lld"
+          }
+        }
+      }
+    },
+    "CHAPTER %lld" : {
+      "comment" : "Current curated story chapter number.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BAB %1$lld"
+          }
+        }
+      }
+    },
+    "Chapter %lld · %@" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bab %1$lld · %2$@"
+          }
+        }
+      }
+    },
+    "Child profile" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil anak"
+          }
+        }
+      }
+    },
+    "CHILDREN'S STORY  ·  CHAPTER %lld" : {
+      "comment" : "Localized app copy.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CERITA ANAK  ·  BAB %1$lld"
+          }
+        }
+      }
+    },
+    "Choose your preferred language for reading curated stories." : {
+      "comment" : "App introduction story language description.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pilih bahasa yang Anda sukai untuk membaca cerita terkurasi."
+          }
+        }
+      }
+    },
+    "Choose your preferred language for reading stories." : {
+      "comment" : "App introduction story language description.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pilih bahasa cerita yang ingin dibaca."
+          }
+        }
+      }
+    },
+    "Clear" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hapus"
+          }
+        }
+      }
+    },
+    "Clear Curated Library Cache" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bersihkan Cache Pustaka Terkurasi"
+          }
+        }
+      }
+    },
+    "Closes the introduction and opens the curated story shelf." : {
+      "comment" : "App introduction action hint.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menutup pengantar dan membuka rak cerita pilihan."
+          }
+        }
+      }
+    },
+    "Closes the introduction and returns to Settings." : {
+      "comment" : "Settings app introduction action hint.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menutup pengantar dan kembali ke Pengaturan."
+          }
+        }
+      }
+    },
+    "Computational Literature" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Computational Literature"
+          }
+        }
+      }
+    },
+    "Computational Literature crafts each story around your choices." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Computational Literature meramu cerita sesuai pilihanmu."
+          }
+        }
+      }
+    },
+    "Computational Literature Engine" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesin Computational Literature"
+          }
+        }
+      }
+    },
+    "Computational Literature is writing your story" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sedang menyusun Computational Literature"
+          }
+        }
+      }
+    },
+    "Computational Literature will craft the first chapter and illustration from your preferences." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Computational Literature akan menyusun bab pertama dan ilustrasi dari preferensi yang kamu pilih."
+          }
+        }
+      }
+    },
+    "Connected to Supabase" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terkoneksi ke Supabase"
+          }
+        }
+      }
+    },
+    "Couldn't create story" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerita belum dapat dibuat"
+          }
+        }
+      }
+    },
+    "Courage to try" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berani mencoba"
+          }
+        }
+      }
+    },
+    "Create Computational Literature Story" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buat Cerita Computational Literature"
+          }
+        }
+      }
+    },
+    "Create stories with" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buat cerita dengan"
+          }
+        }
+      }
+    },
+    "Create story" : {
+      "comment" : "Starts generating a story from the selected preferences.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buat cerita"
+          }
+        }
+      }
+    },
+    "Create your first story from the home screen." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buat cerita pertamamu dari rak buku."
+          }
+        }
+      }
+    },
+    "Curated collections" : {
+      "comment" : "App introduction feature.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koleksi cerita pilihan"
+          }
+        }
+      }
+    },
+    "Curated Library" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pustaka Terkurasi"
+          }
+        }
+      }
+    },
+    "Curated Library Server" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server Pustaka Terkurasi"
+          }
+        }
+      }
+    },
+    "Curated stories are wholesome and created to provide a calm, protected literary sanctuary." : {
+      "comment" : "Privacy commitment detail for family safety.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerita terkurasi dipilih dengan cermat untuk memberikan ruang literasi yang tenang, hangat, dan terlindungi."
+          }
+        }
+      }
+    },
+    "Curated Story Collections" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koleksi Cerita Pilihan"
+          }
+        }
+      }
+    },
+    "Curated story collections are retrieved from the curated library server. Story illustrations are loaded via high-speed CDN." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koleksi cerita pilihan diambil dari server pustaka terkurasi. Ilustrasi gambar cerita dimuat melalui CDN berkecepatan tinggi."
+          }
+        }
+      }
+    },
+    "Curated Story Language" : {
+      "comment" : "App introduction story language section title.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bahasa Cerita Pilihan"
+          }
+        }
+      }
+    },
+    "Curiosity" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rasa ingin tahu"
+          }
+        }
+      }
+    },
+    "Decrease story text size" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kecilkan teks cerita"
+          }
+        }
+      }
+    },
+    "Default Story Language" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bahasa Cerita Default"
+          }
+        }
+      }
+    },
+    "delete" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "menghapus"
+          }
+        }
+      }
+    },
+    "Delete All" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hapus Semua"
+          }
+        }
+      }
+    },
+    "Delete All Stories" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hapus Semua Cerita"
+          }
+        }
+      }
+    },
+    "Delete All Stories?" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hapus Semua Cerita?"
+          }
+        }
+      }
+    },
+    "Delete API Key" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hapus API Key"
+          }
+        }
+      }
+    },
+    "Device security services aren't ready yet. Try again in a moment." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Layanan keamanan perangkat belum siap. Coba lagi sebentar lagi."
+          }
+        }
+      }
+    },
+    "Done" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selesai"
+          }
+        }
+      }
+    },
+    "English 🇬🇧" : {
+
+    },
+    "Everyday life" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kehidupan sehari-hari"
+          }
+        }
+      }
+    },
+    "Explore curated stories" : {
+      "comment" : "Primary action in app introduction.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jelajahi cerita pilihan"
+          }
+        }
+      }
+    },
+    "Family-Safe & Private" : {
+      "comment" : "Privacy commitment: safe reading environment.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aman untuk Keluarga & Privat"
+          }
+        }
+      }
+    },
+    "Fantasy" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fantasi"
+          }
+        }
+      }
+    },
+    "Finding the next adventure…" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mencari petualangan berikutnya…"
+          }
+        }
+      }
+    },
+    "Folklore and fables, ready to explore." : {
+      "comment" : "App introduction feature description.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerita rakyat dan fabel yang siap dijelajahi."
+          }
+        }
+      }
+    },
+    "For %@" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Untuk %1$@"
+          }
+        }
+      }
+    },
+    "Foundation Models failed (%@, code %lld): %@" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foundation Models gagal (%1$@, kode %2$lld): %3$@"
+          }
+        }
+      }
+    },
+    "friend" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "teman kecil"
+          }
+        }
+      }
+    },
+    "Funny" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lucu"
+          }
+        }
+      }
+    },
+    "Gemini" : {
+
+    },
+    "Gemini 3.8 Flash (Default)" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gemini 3.8 Flash (Bawaan)"
+          }
+        }
+      }
+    },
+    "Gemini couldn't create the %@ (HTTP %lld). %@" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gemini gagal membuat %1$@ (HTTP %2$lld). %3$@"
+          }
+        }
+      }
+    },
+    "Gemini couldn't create this story (%@). Change the story idea and try again." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gemini tidak dapat membuat cerita dari permintaan ini (%1$@). Ubah ide cerita lalu coba lagi."
+          }
+        }
+      }
+    },
+    "Gemini denied access while creating the %@ (%lld). Check the API key and Gemini API access. %@" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akses Gemini ditolak saat membuat %1$@ (%2$lld). Periksa API key dan akses Gemini API. %3$@"
+          }
+        }
+      }
+    },
+    "Gemini didn't return an illustration. The story is still saved." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gemini belum mengirim ilustrasi. Cerita tetap tersimpan."
+          }
+        }
+      }
+    },
+    "Gemini held this story for a safety check. Change the story idea and try again." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gemini menahan cerita ini karena pemeriksaan keamanan. Ubah ide cerita lalu coba lagi."
+          }
+        }
+      }
+    },
+    "Gemini model" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Model Gemini"
+          }
+        }
+      }
+    },
+    "Gemini rejected the request to create the %@ (400). %@" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gemini menolak permintaan untuk membuat %1$@ (400). %2$@"
+          }
+        }
+      }
+    },
+    "Gemini returned an invalid response while loading the %@." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gemini tidak mengirim respons yang valid saat memuat %1$@."
+          }
+        }
+      }
+    },
+    "Gemini returned no story." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gemini tidak mengirim hasil cerita."
+          }
+        }
+      }
+    },
+    "Gemini still couldn't finish the story after a recovery attempt. Try again or choose a model with a larger output limit." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gemini belum menyelesaikan cerita setelah mencoba memulihkannya. Coba lagi atau pilih model dengan batas keluaran lebih besar."
+          }
+        }
+      }
+    },
+    "Gemini usage follows your Google account's quota or billing." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penggunaan Gemini mengikuti kuota atau biaya akun Google."
+          }
+        }
+      }
+    },
+    "Helping one another" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saling menolong"
+          }
+        }
+      }
+    },
+    "Hide" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sembunyikan"
+          }
+        }
+      }
+    },
+    "History" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riwayat"
+          }
+        }
+      }
+    },
+    "illustration" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ilustrasi"
+          }
+        }
+      }
+    },
+    "Illustration for chapter %lld" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ilustrasi bab %1$lld"
+          }
+        }
+      }
+    },
+    "Illustration model" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Model ilustrasi"
+          }
+        }
+      }
+    },
+    "Image generation note: The Gemini API free tier does not support image generation. Generating illustrations requires a Google AI account with active billing (Pay-as-you-go). Text stories can still be generated for free." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Catatan pembuatan gambar: Paket gratis (Free Tier) API Gemini tidak menyediakan fitur pembuatan gambar. Pembuatan ilustrasi memerlukan akun Google AI dengan penagihan aktif (Pay-as-you-go). Cerita teks tetap dapat dibuat secara gratis."
+          }
+        }
+      }
+    },
+    "Imaginative" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penuh imajinasi"
+          }
+        }
+      }
+    },
+    "Immerse in timeless folklore, fables, and cultural tales curated for mindful reading." : {
+      "comment" : "Subheadline describing the curated story reading experience in app onboarding.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selami cerita rakyat, fabel, dan kisah budaya abadi yang dikurasi untuk pengalaman membaca bermakna."
+          }
+        }
+      }
+    },
+    "Increase story text size" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Besarkan teks cerita"
+          }
+        }
+      }
+    },
+    "Interests" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minat"
+          }
+        }
+      }
+    },
+    "Interests, like animals or nature" : {
+      "comment" : "Localized app copy.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minat, misalnya hewan atau alam"
+          }
+        }
+      }
+    },
+    "Interests, like animals or nature (optional)" : {
+      "comment" : "Generated story preference field.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minat, seperti hewan atau alam (opsional)"
+          }
+        }
+      }
+    },
+    "Just a nickname, age, and interests." : {
+      "comment" : "Localized app copy.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nama panggilan, usia, dan minat saja."
+          }
+        }
+      }
+    },
+    "Keychain couldn't %@ the %@ API key (code %d). %@" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keychain tidak dapat %1$@ API key %2$@ (kode %3$d). %4$@"
+          }
+        }
+      }
+    },
+    "Learn WonderRead" : {
+      "comment" : "Settings section for app introduction.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kenali WonderRead"
+          }
+        }
+      }
+    },
+    "main character" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tokoh utama"
+          }
+        }
+      }
+    },
+    "Manage Stories" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kelola Cerita"
+          }
+        }
+      }
+    },
+    "Meet the reader" : {
+      "comment" : "Localized app copy.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mari mengenal pembaca"
+          }
+        }
+      }
+    },
+    "Model & Language" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Model & Bahasa"
+          }
+        }
+      }
+    },
+    "model list" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "daftar model"
+          }
+        }
+      }
+    },
+    "Moral" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesan moral"
+          }
+        }
+      }
+    },
+    "New Story Repository" : {
+      "comment" : "Default fallback name for an imported story collection",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koleksi Cerita Baru"
+          }
+        }
+      }
+    },
+    "Next page" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Halaman berikutnya"
+          }
+        }
+      }
+    },
+    "Nickname" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nama panggilan"
+          }
+        }
+      }
+    },
+    "Nickname (optional)" : {
+      "comment" : "Generated story preference field.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nama panggilan (opsional)"
+          }
+        }
+      }
+    },
+    "No stories yet" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belum ada cerita"
+          }
+        }
+      }
+    },
+    "No story available" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerita belum tersedia"
+          }
+        }
+      }
+    },
+    "No story collections from Supabase available for this language." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belum ada koleksi cerita dari Supabase untuk pilihan bahasa ini."
+          }
+        }
+      }
+    },
+    "OK" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mengerti"
+          }
+        }
+      }
+    },
+    "On-device" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Di perangkat"
+          }
+        }
+      }
+    },
+    "On-device AI couldn't create a story from this request. Change the story idea and try again." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI lokal tidak dapat membuat cerita dari permintaan ini. Ubah ide cerita, lalu coba lagi."
+          }
+        }
+      }
+    },
+    "On-device AI couldn't create the story. %@" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI lokal belum dapat membuat cerita. %1$@"
+          }
+        }
+      }
+    },
+    "On-device AI failed to create a story (%@, code %lld). Check Apple Intelligence readiness and try again." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI lokal gagal membuat cerita (%1$@, kode %2$lld). Periksa kesiapan Apple Intelligence dan coba lagi."
+          }
+        }
+      }
+    },
+    "On-device AI isn't ready. %@" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI di perangkat belum siap. %1$@"
+          }
+        }
+      }
+    },
+    "On-device AI requires iOS 26 or macOS 26 or later." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI lokal memerlukan iOS 26 atau macOS 26 atau lebih baru."
+          }
+        }
+      }
+    },
+    "One story. A world of possibilities." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Satu cerita, dunia yang luas."
+          }
+        }
+      }
+    },
+    "Open Book →" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buka Buku →"
+          }
+        }
+      }
+    },
+    "Opens the WonderRead introduction again." : {
+      "comment" : "Settings action hint.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Membuka kembali pengantar WonderRead."
+          }
+        }
+      }
+    },
+    "Opens this story" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Membuka cerita ini"
+          }
+        }
+      }
+    },
+    "Paste Gemini API key" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempel API key Gemini"
+          }
+        }
+      }
+    },
+    "Personalize a generated story" : {
+      "comment" : "Generated story onboarding headline.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personalisasi cerita buatan"
+          }
+        }
+      }
+    },
+    "Playful Care & Joy" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dunia Bayi & Kasih"
+          }
+        }
+      }
+    },
+    "Preferences are saved on this device. You can create a story later from your shelf." : {
+      "comment" : "Localized app copy.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferensi disimpan di perangkat. Cerita dapat dibuat nanti dari rak buku."
+          }
+        }
+      }
+    },
+    "Preparing a new world…" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menyiapkan dunia baru…"
+          }
+        }
+      }
+    },
+    "Preparing illustration" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sedang menyiapkan ilustrasi"
+          }
+        }
+      }
+    },
+    "Preparing story text" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sedang menyiapkan teks cerita"
+          }
+        }
+      }
+    },
+    "Previous page" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Halaman sebelumnya"
+          }
+        }
+      }
+    },
+    "Privacy & Peace of Mind" : {
+      "comment" : "Onboarding privacy section header.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privasi & Kenyamanan Membaca"
+          }
+        }
+      }
+    },
+    "Privacy and usage" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privasi dan penggunaan"
+          }
+        }
+      }
+    },
+    "Putting the words together…" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menyusun kata demi kata…"
+          }
+        }
+      }
+    },
+    "read" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "membaca"
+          }
+        }
+      }
+    },
+    "Read story" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baca cerita"
+          }
+        }
+      }
+    },
+    "Reader details (optional)" : {
+      "comment" : "Generated story preference section.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detail pembaca (opsional)"
+          }
+        }
+      }
+    },
+    "Reset All Stories" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset Semua Cerita"
+          }
+        }
+      }
+    },
+    "Reset All Stories?" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset Semua Cerita?"
+          }
+        }
+      }
+    },
+    "save" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "menyimpan"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simpan"
+          }
+        }
+      }
+    },
+    "Save and continue" : {
+      "comment" : "Localized app copy.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simpan & lanjutkan"
+          }
+        }
+      }
+    },
+    "Saves the reader profile and story preferences on this device" : {
+      "comment" : "Localized app copy.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menyimpan profil dan preferensi cerita di perangkat"
+          }
+        }
+      }
+    },
+    "Saves your preferences and starts story generation." : {
+      "comment" : "Generated story onboarding action hint.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menyimpan preferensi dan mulai membuat cerita."
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengaturan"
+          }
+        }
+      }
+    },
+    "Settings Section" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bagian Pengaturan"
+          }
+        }
+      }
+    },
+    "Show" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tampilkan"
+          }
+        }
+      }
+    },
+    "Skip" : {
+      "comment" : "Skips the optional app introduction.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lewati"
+          }
+        }
+      }
+    },
+    "Skip personalization" : {
+      "comment" : "Skips optional generated story preferences.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lewati personalisasi"
+          }
+        }
+      }
+    },
+    "Starry Night & Dreams" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malam Bintang & Mimpi Indah"
+          }
+        }
+      }
+    },
+    "Start with curated stories." : {
+      "comment" : "App introduction headline.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mulai dari cerita pilihan."
+          }
+        }
+      }
+    },
+    "Starts story generation using your current preferences." : {
+      "comment" : "Generated story onboarding skip hint.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mulai membuat cerita dengan preferensi saat ini."
+          }
+        }
+      }
+    },
+    "Stored on Your Device" : {
+      "comment" : "Privacy commitment: reading progress and preferences remain local.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tersimpan di Perangkat Anda"
+          }
+        }
+      }
+    },
+    "Stories you create will be saved here." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerita yang dibuat akan tersimpan di sini."
+          }
+        }
+      }
+    },
+    "story" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cerita"
+          }
+        }
+      }
+    },
+    "Story collections are cached locally based on version numbers in Supabase. Clearing cache will force the app to re-fetch latest story versions when the shelf is reopened." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koleksi cerita di-cache secara lokal berdasarkan nomor versi di Supabase. Membersihkan cache akan memaksa aplikasi mengunduh ulang versi cerita terbaru saat rak buku dibuka kembali."
+          }
+        }
+      }
+    },
+    "Story illustration for chapter %lld" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ilustrasi cerita untuk bab %1$lld"
+          }
+        }
+      }
+    },
+    "Story language" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bahasa cerita"
+          }
+        }
+      }
+    },
+    "Story Language" : {
+      "comment" : "App introduction story language section title.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bahasa Cerita"
+          }
+        }
+      }
+    },
+    "Story not found" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerita tidak ditemukan"
+          }
+        }
+      }
+    },
+    "Story preferences" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferensi cerita"
+          }
+        }
+      }
+    },
+    "STORY PREFERENCES" : {
+      "comment" : "Localized app copy.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PREFERENSI CERITA"
+          }
+        }
+      }
+    },
+    "Story preferences (optional)" : {
+      "comment" : "Generated story preference section.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferensi cerita (opsional)"
+          }
+        }
+      }
+    },
+    "Storybook Journey" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Halaman Cerita & Petualangan"
+          }
+        }
+      }
+    },
+    "Successfully connected to repository: %@" : {
+      "comment" : "Alert message when switching to a new Supabase repository via deep link",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aplikasi berhasil terhubung ke: %1$@"
+          }
+        }
+      }
+    },
+    "Supabase Anon Key" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supabase Anon Key"
+          }
+        }
+      }
+    },
+    "Supabase Project URL" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL Project Supabase"
+          }
+        }
+      }
+    },
+    "Supabase Repository Switched" : {
+      "comment" : "Alert title when switching Supabase repository via deep link",
+      "extractionState" : "stale",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Repositori Supabase Diganti"
+          }
+        }
+      }
+    },
+    "Swipe screen to turn story page" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geser layar untuk membalik halaman cerita"
+          }
+        }
+      }
+    },
+    "swipe to open" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "geser untuk membuka"
+          }
+        }
+      }
+    },
+    "Tap to continue reading" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ketuk untuk lanjut membaca"
+          }
+        }
+      }
+    },
+    "tap to open" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ketuk untuk membuka"
+          }
+        }
+      }
+    },
+    "The End" : {
+      "comment" : "Closing mark shown after the final curated story chapter.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tamat"
+          }
+        }
+      }
+    },
+    "The Gemini model for the %@ isn't available (404). %@" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Model Gemini untuk membuat %1$@ tidak tersedia (404). %2$@"
+          }
+        }
+      }
+    },
+    "The Gemini model-list URL is invalid." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alamat daftar model Gemini tidak valid."
+          }
+        }
+      }
+    },
+    "The Gemini quota was reached while creating the %@. Try again later or check the Google account quota. %@" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuota Gemini tercapai saat membuat %1$@. Coba lagi nanti atau periksa kuota akun Google. %2$@"
+          }
+        }
+      }
+    },
+    "The Gemini service URL is invalid." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alamat layanan Gemini tidak valid."
+          }
+        }
+      }
+    },
+    "The Gemini URL is invalid." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alamat Gemini tidak valid."
+          }
+        }
+      }
+    },
+    "The story was created but couldn't be saved on this device." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerita berhasil dibuat, tetapi belum dapat disimpan di perangkat."
+          }
+        }
+      }
+    },
+    "Theme" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tema"
+          }
+        }
+      }
+    },
+    "These preferences stay on this device and can be changed in Settings." : {
+      "comment" : "Generated story onboarding privacy description.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferensi ini tersimpan di perangkat dan dapat diubah nanti di Pengaturan."
+          }
+        }
+      }
+    },
+    "This app doesn't have Keychain access. Update or reinstall the app." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akses Keychain aplikasi ini tidak tersedia. Perbarui atau instal ulang aplikasi."
+          }
+        }
+      }
+    },
+    "This device isn't eligible for Apple Intelligence. Choose Gemini to create stories." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perangkat ini tidak memenuhi syarat Apple Intelligence. Pilih Gemini untuk membuat cerita."
+          }
+        }
+      }
+    },
+    "To enable Apple Intelligence, open System Settings > Apple Intelligence & Siri, turn it on, and wait for the model to download. Connect to Wi-Fi and power. Apple must support the device, region, and device and Siri languages." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Untuk mengaktifkan Apple Intelligence, buka Pengaturan Sistem > Apple Intelligence & Siri, nyalakan fiturnya, lalu tunggu model selesai diunduh. Sambungkan ke Wi-Fi dan daya. Perangkat, wilayah, serta bahasa perangkat dan Siri harus didukung Apple."
+          }
+        }
+      }
+    },
+    "Try again" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coba lagi"
+          }
+        }
+      }
+    },
+    "Try again, or restart the device." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coba lagi, atau hidupkan ulang perangkat."
+          }
+        }
+      }
+    },
+    "Turn the page to open the next or previous story" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Balik halaman untuk membaca cerita berikutnya atau sebelumnya"
+          }
+        }
+      }
+    },
+    "Turn the page to open the previous or next story" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Balik halaman untuk membuka cerita sebelumnya atau selanjutnya"
+          }
+        }
+      }
+    },
+    "Turn the two-page spread to open the previous or next story" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Balik halaman dua sisi untuk membuka cerita sebelumnya atau selanjutnya"
+          }
+        }
+      }
+    },
+    "Unlock your device, then try again." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buka kunci perangkat, lalu coba lagi."
+          }
+        }
+      }
+    },
+    "Unlock your Mac, then try again." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pastikan Mac sudah terbuka, lalu coba lagi."
+          }
+        }
+      }
+    },
+    "Use a nickname rather than a full name" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gunakan nama panggilan, bukan nama lengkap"
+          }
+        }
+      }
+    },
+    "Using Local Seed (Offline)" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menggunakan Koleksi Bawaan (Offline)"
+          }
+        }
+      }
+    },
+    "View app introduction" : {
+      "comment" : "Reopens the optional app introduction.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lihat pengantar aplikasi"
+          }
+        }
+      }
+    },
+    "Warm and comforting" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hangat"
+          }
+        }
+      }
+    },
+    "We do not track your reading habits, sell your data, or serve third-party advertisements." : {
+      "comment" : "Privacy commitment detail for no tracking.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kami tidak melacak kebiasaan membaca Anda, tidak menjual data, dan tidak menayangkan iklan pihak ketiga."
+          }
+        }
+      }
+    },
+    "Welcome" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selamat datang"
+          }
+        }
+      }
+    },
+    "Welcome to WonderRead" : {
+      "comment" : "Headline for the main app onboarding.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selamat Datang di WonderRead"
+          }
+        }
+      }
+    },
+    "Welcome, %@" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selamat datang, %1$@"
+          }
+        }
+      }
+    },
+    "When Gemini is selected, the nickname, age, interests, preferences, and story idea are sent to Google to create story text and illustrations." : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saat Gemini dipilih, nama panggilan, usia, minat, preferensi, dan ide cerita dikirim ke Google untuk membuat teks cerita dan ilustrasi."
+          }
+        }
+      }
+    },
+    "Wonder & Magic" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dunia Imajinasi & Keajaiban"
+          }
+        }
+      }
+    },
+    "WonderRead Adventure" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Petualangan WonderRead"
+          }
+        }
+      }
+    },
+    "WonderRead Library" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pustaka WonderRead"
+          }
+        }
+      }
+    },
+    "Writing style" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gaya bahasa"
+          }
+        }
+      }
+    },
+    "Writing the next story…" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sedang merangkai kisah…"
+          }
+        }
+      }
+    },
+    "Writing your story…" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menulis cerita…"
+          }
+        }
+      }
+    },
+    "Your first story starts here" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kisah pertamamu dimulai di sini"
+          }
+        }
+      }
+    },
+    "Your story is almost here…" : {
+      "comment" : "Localized app copy.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sebentar lagi ceritanya tiba…"
+          }
+        }
+      }
+    },
+    "Your story preferences, bookmarks, and reading history are saved securely on this device." : {
+      "comment" : "Privacy commitment detail for on-device storage.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferensi cerita, markah buku, dan riwayat membaca Anda tersimpan dengan aman di perangkat ini."
+          }
+        }
+      }
+    },
+    "Zero Tracking & No Ads" : {
+      "comment" : "Privacy commitment: no third-party tracking or advertising.",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bebas Pelacakan & Tanpa Iklan"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

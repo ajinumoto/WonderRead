@@ -1,0 +1,142 @@
+{
+  "configs": {
+    "Debug": "debug",
+    "Release": "release"
+  },
+  "name": "WonderRead",
+  "options": {
+    "groupSortPosition": "bottom",
+    "transitivelyLinkDependencies": false
+  },
+  "settings": {
+    "CODE_SIGN_IDENTITY": "-"
+  },
+  "targets": {
+    "WonderRead": {
+      "deploymentTarget": {
+        "iOS": "18.6",
+        "macOS": "14.6"
+      },
+      "entitlements": {
+        "path": "App/App.entitlements",
+        "properties": {
+          "com.apple.security.app-sandbox": true,
+          "com.apple.security.network.client": true
+        }
+      },
+      "info": {
+        "path": "App/Info.plist",
+        "properties": {
+          "SUPABASE_PROJECT_URL": "$(SUPABASE_PROJECT_URL)",
+          "SUPABASE_ANON_KEY": "$(SUPABASE_ANON_KEY)",
+          "CFBundleURLTypes": [
+            {
+              "CFBundleURLName": "id.co.aspamungkas.WonderRead",
+              "CFBundleURLSchemes": [
+                "wonderread"
+              ]
+            }
+          ],
+          "CFBundleDisplayName": "WonderRead",
+          "CFBundleLocalizations": [
+            "en",
+            "id"
+          ],
+          "CFBundleShortVersionString": "1.0",
+          "CFBundleVersion": "1",
+          "LSApplicationCategoryType": "public.app-category.books",
+          "ITSAppUsesNonExemptEncryption": false,
+          "UILaunchScreen": {},
+          "UISupportedInterfaceOrientations": [
+            "UIInterfaceOrientationPortrait",
+            "UIInterfaceOrientationPortraitUpsideDown",
+            "UIInterfaceOrientationLandscapeLeft",
+            "UIInterfaceOrientationLandscapeRight"
+          ]
+        }
+      },
+      "platform": "auto",
+      "settings": {
+        "ASSETCATALOG_COMPILER_APPICON_NAME": "AppIcon",
+        "ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME": "AccentColor",
+        "CODE_SIGN_IDENTITY": "iPhone Developer",
+        "CURRENT_PROJECT_VERSION": "1",
+        "DEVELOPMENT_LANGUAGE": "en",
+        "DEVELOPMENT_TEAM": "D8VUC5U2K7",
+        "MARKETING_VERSION": "1.0",
+        "PRODUCT_BUNDLE_IDENTIFIER": "id.co.aspamungkas.WonderRead",
+        "PRODUCT_NAME": "$(TARGET_NAME)",
+        "SWIFT_VERSION": "5.0",
+        "TARGETED_DEVICE_FAMILY": "1,2"
+      },
+      "configFiles": {
+        "Debug": "Config/Debug.xcconfig",
+        "Release": "Config/Release.xcconfig"
+      },
+      "dependencies": [
+        {
+          "package": "Nuke"
+        },
+        {
+          "package": "Nuke",
+          "product": "NukeUI"
+        }
+      ],
+      "sources": [
+        {
+          "path": "App"
+        }
+      ],
+      "supportedDestinations": [
+        "iOS",
+        "macOS"
+      ],
+      "scheme": {
+        "testTargets": [
+          "WonderReadTests"
+        ],
+        "gatherCoverageData": true,
+        "coverageTargets": [
+          "WonderRead"
+        ]
+      },
+      "type": "application"
+    },
+    "WonderReadTests": {
+      "deploymentTarget": {
+        "iOS": "18.6",
+        "macOS": "14.6"
+      },
+      "platform": "auto",
+      "supportedDestinations": [
+        "iOS",
+        "macOS"
+      ],
+      "sources": [
+        "Tests"
+      ],
+      "dependencies": [
+        {
+          "target": "WonderRead"
+        }
+      ],
+      "settings": {
+        "BUNDLE_LOADER": "$(TEST_HOST)",
+        "BUNDLE_LOADER[sdk=macosx*]": "$(TEST_HOST)",
+        "DEVELOPMENT_TEAM": "D8VUC5U2K7",
+        "GENERATE_INFOPLIST_FILE": "YES",
+        "PRODUCT_BUNDLE_IDENTIFIER": "id.co.aspamungkas.WonderRead.Tests",
+        "SWIFT_VERSION": "5.0",
+        "TEST_HOST": "$(BUILT_PRODUCTS_DIR)/WonderRead.app/WonderRead",
+        "TEST_HOST[sdk=macosx*]": "$(BUILT_PRODUCTS_DIR)/WonderRead.app/Contents/MacOS/WonderRead"
+      },
+      "type": "bundle.unit-test"
+    }
+  },
+  "packages": {
+    "Nuke": {
+      "url": "https://github.com/kean/Nuke",
+      "from": "12.9.0"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+SUPABASE_URL_SLASH = /
+SUPABASE_PROJECT_URL = ""
+SUPABASE_ANON_KEY = ""
+#include? "Secrets.xcconfig"
